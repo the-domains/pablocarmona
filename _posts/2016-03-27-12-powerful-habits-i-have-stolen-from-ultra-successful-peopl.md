@@ -20,18 +20,22 @@ keywords:
   - dumbbell
   - curl
   - tasks
-description: 'As you may already know I am very curious about habits, behaviour psychology and how it all affects success. For over two years I have been experimenting with my routines, work and lifestyle to find that perfect fit for happy and productive, purpose and passion driven routine.'
+description: >-
+  As you may already know I am very curious about habits, behaviour psychology
+  and how it all affects success. For over two years I have been experimenting
+  with my routines, work and lifestyle to find that perfect fit for happy and
+  productive, purpose and passion driven routine.
 inLanguage: en
 app_links: []
-isBasedOnUrl: 'http://tomaslau.com/powerful-habits/'
 title: 12 Powerful Habits I Have Stolen from Ultra Successful People
-datePublished: '2016-03-27T08:22:01.437Z'
-dateModified: '2016-03-27T08:14:48.679Z'
-sourcePath: _posts/2016-03-27-12-powerful-habits-i-have-stolen-from-ultra-successful-peopl.md
-published: true
-inFeed: true
-hasPage: false
-inNav: false
+datePublished: '2016-09-01T05:25:32.116Z'
+dateModified: '2016-09-01T05:25:30.304Z'
+sourcePath: >-
+  _posts/2016-03-27-12-powerful-habits-i-have-stolen-from-ultra-successful-peopl.md
+hasPage: true
+via: {}
+starred: false
+url: 12-powerful-habits-i-have-stolen-from-ultra-successful-peopl/index.html
 _context: 'http://schema.org'
 _type: MediaObject
 
