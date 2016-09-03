@@ -1,20 +1,4 @@
-name: PabloCarmona
-favicon: null
-layout_spectrum: 0
 typography_spectrum: 0.49092
-title: Pablo Carmona
-cta:
-  domain: null
-  bucket: null
-  version: null
-analytics:
-  google: null
-  facebook: null
-  twitter: null
-opengraph:
-  image: null
-  type: null
-  appId: null
 color:
   brandColors:
     - '#F7EDF0'
@@ -26,4 +10,24 @@ color:
   lightness: 0.9182661697268486
   saturation: 0.4326307054143399
   rhythmicContrast: 0.5
+opengraph:
+  image: null
+  type: null
+  appId: null
+layout_spectrum: 0
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+name: PabloCarmona
+cta:
+  domain: null
+  bucket: null
+  version: null
+navigation:
+  - name: TEST
+    id: eddd7815-6408-401f-aaf7-97c7526c9158
+    type: content
+favicon: null
+title: Pablo Carmona
 purpose: []
